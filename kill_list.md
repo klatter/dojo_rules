@@ -1,5 +1,5 @@
 Bad coding practices
-=========
+==============================
 * Unused code
 * Functions with side effects
 * Unformatted code
